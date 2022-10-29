@@ -1,8 +1,5 @@
 <!doctype html>
 <html lang="en">
-@extends('_layouts.app')
-@section('content')
-<section class="banner">   
 
 <head>
     <!-- Required meta tags -->
@@ -35,9 +32,6 @@
                     <li class="nav-item">
                         <a class="nav-link active" aria-current="page" href="#">Program</a>
                     </li>
-                    </section>
-
-                    <section class="benefits">
                     <li class="nav-item">
                         <a class="nav-link" href="#">Mentor</a>
                     </li>
@@ -96,9 +90,8 @@
             </div>
         </div>
     </section>
-    </section>
 
-<section class="steps">
+
     <section class="benefits">
         <div class="container">
             <div class="row text-center pb-70">
